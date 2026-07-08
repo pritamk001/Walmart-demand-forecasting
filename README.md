@@ -78,5 +78,7 @@ streamlit run app.py
 
 🔗 Links
 🌐 Live App: walmart-demand-forecastingg.streamlit.app
+
 💻 GitHub: github.com/pritamk001/walmart-demand-forecasting
+
 Built with ❤️ using XGBoost + Streamlit + Plotly
